@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="To Do Workspace">316f21847b09c2508c5392ed31bee57c</dashboard>
+        <group/>
+        <owner>true</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-15 05:37:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>876f61844709c2507bf68977536d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>316f21847b09c2508c5392ed31bee57c</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1226914_to_do">da15caf54774c6107bf68977536d4300</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">da15caf54774c6107bf68977536d4300</sys_scope>
+        <sys_update_name>par_dashboard_permission_876f61844709c2507bf68977536d43a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-15 05:37:17</sys_updated_on>
+        <user display_value="Pratap Sisodia">6816f79cc0a8016401c5a33be04be441</user>
+    </par_dashboard_permission>
+</record_update>

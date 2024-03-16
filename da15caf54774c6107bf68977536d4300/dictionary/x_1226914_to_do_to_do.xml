@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="dea8ce3d4774c6107bf68977536d439c" label="To Do" max_length="40" name="x_1226914_to_do_to_do" text_index="true" type="collection">
+        <element label="Assigned To" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Due Date" max_length="40" name="due_date" type="glide_date_time"/>
+        <element choice="3" default="not_started" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Not Started" sequence="0" value="not_started"/>
+            </choice>
+        </element>
+        <element choice="3" label="Process" max_length="40" name="process" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Important" sequence="0" value="important"/>
+            </choice>
+        </element>
+        <element label="Project" max_length="40" name="project" type="string"/>
+        <element label="To Do Item" max_length="40" name="to_do_item" type="string"/>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

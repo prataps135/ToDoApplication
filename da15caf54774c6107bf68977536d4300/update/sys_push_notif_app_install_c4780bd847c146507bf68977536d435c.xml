@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_app_install">
+    <sys_push_notif_app_install action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <last_registered_on>2024-03-16 06:59:59</last_registered_on>
+        <send_badge_count>true</send_badge_count>
+        <sys_class_name>sys_push_notif_app_install</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-16 06:44:41</sys_created_on>
+        <sys_id>c4780bd847c146507bf68977536d435c</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>fUU1Pm2IRCeNjJHLfsjQ1H:APA91bEmmGZp5QPcO9HGmfjTkXMBUV543k1sc1s7mZvub_WWjEBofa0hJyDmuSqO7YMIKjMTxsWgokciJMrMtMRxcQLvhGXmuKOm3iBlZaoKnQ6AKYl2V9VpAnAWbufI1Ag5KQz8PP2k</sys_name>
+        <sys_package display_value="To Do" source="x_1226914_to_do">da15caf54774c6107bf68977536d4300</sys_package>
+        <sys_policy/>
+        <sys_push_application_id display_value="ServiceNow Mobile Application">05ed2fb177002300258da2e2c81061c2</sys_push_application_id>
+        <sys_push_platform_id display_value="Google">53e75f30ff0002009738ffffffffff12</sys_push_platform_id>
+        <sys_scope display_value="To Do">da15caf54774c6107bf68977536d4300</sys_scope>
+        <sys_update_name>sys_push_notif_app_install_c4780bd847c146507bf68977536d435c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-16 06:59:59</sys_updated_on>
+        <sys_user_id display_value="Pratap Sisodia">6816f79cc0a8016401c5a33be04be441</sys_user_id>
+        <token>fUU1Pm2IRCeNjJHLfsjQ1H:APA91bEmmGZp5QPcO9HGmfjTkXMBUV543k1sc1s7mZvub_WWjEBofa0hJyDmuSqO7YMIKjMTxsWgokciJMrMtMRxcQLvhGXmuKOm3iBlZaoKnQ6AKYl2V9VpAnAWbufI1Ag5KQz8PP2k</token>
+    </sys_push_notif_app_install>
+</record_update>

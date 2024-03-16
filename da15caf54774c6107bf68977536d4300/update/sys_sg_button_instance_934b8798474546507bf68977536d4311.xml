@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="New Button (My To Dos)">5b4b4798474546507bf68977536d43d4</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>New</label>
+        <location>top</location>
+        <name>New</name>
+        <order/>
+        <parent>c34b4798474546507bf68977536d43a9</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-16 06:57:11</sys_created_on>
+        <sys_id>934b8798474546507bf68977536d4311</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New</sys_name>
+        <sys_package display_value="To Do" source="x_1226914_to_do">da15caf54774c6107bf68977536d4300</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">da15caf54774c6107bf68977536d4300</sys_scope>
+        <sys_update_name>sys_sg_button_instance_934b8798474546507bf68977536d4311</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-16 06:57:11</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=934b8798474546507bf68977536d4311"/>
+</record_update>

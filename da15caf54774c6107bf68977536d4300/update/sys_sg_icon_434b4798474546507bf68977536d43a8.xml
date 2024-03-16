@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Name":"List","Value":"e90f","FontColor":"#293E40","FontName":"now-mobile-icons","Shape":"Circle"}</icon>
+        <name>List</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-16 06:57:11</sys_created_on>
+        <sys_id>434b4798474546507bf68977536d43a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>List</sys_name>
+        <sys_package display_value="To Do" source="x_1226914_to_do">da15caf54774c6107bf68977536d4300</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">da15caf54774c6107bf68977536d4300</sys_scope>
+        <sys_update_name>sys_sg_icon_434b4798474546507bf68977536d43a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-16 06:57:11</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
